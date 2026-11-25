@@ -1,0 +1,23 @@
+{
+  "name": "com.muppetsg2.toolbox",
+  "version": "1.0.0",
+  "displayName": "MSG2 Toolbox",
+  "description": "A collection of small Unity Editor utilities. Scene Switcher: a Scene View toolbar overlay for switching between scenes (Build Settings or all scenes in Assets), with optional auto-enter Play Mode.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Muppetsg2",
+    "url": "https://github.com/Muppetsg2"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/Muppetsg2/MSG2Toolbox#readme",
+  "changelogUrl": "https://github.com/Muppetsg2/MSG2Toolbox/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Muppetsg2/MSG2Toolbox/blob/main/LICENSE",
+  "keywords": [
+    "editor",
+    "tools",
+    "toolbar",
+    "overlay",
+    "scene",
+    "scene-switcher"
+  ]
+}
